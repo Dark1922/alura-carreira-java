@@ -5,6 +5,8 @@ public class Main {
 
         int anoLancamento = 2022;
         System.out.println("Ano do lançamento: " +  anoLancamento);
+        boolean incluirNoPlano = true;
+        double notaFilme = 8.2;
 
     }
 }
