@@ -21,5 +21,11 @@ public class Main {
                 Dos ano 80
                 """;
         System.out.println(sinopse);
+
+        // código omitido
+
+        int classificacao;
+        classificacao = (int) (media/ 2);
+        System.out.println(classificacao);
     }
 }
