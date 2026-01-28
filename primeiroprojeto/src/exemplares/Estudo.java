@@ -1,3 +1,5 @@
+package exemplares;
+
 public class Estudo {
 
     static void main() {
