@@ -15,7 +15,6 @@ public class Main {
         sinopse = "Filme de aventura com galâ dos ano 80";
         System.out.println(sinopse);
 
-
         sinopse = """
                 Filme de aventura
                 Com galâ 
