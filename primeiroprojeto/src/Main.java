@@ -17,7 +17,7 @@ public class Main {
 
         sinopse = """
                 Filme de aventura
-                Com galâ 
+                Com galâ  
                 Dos ano 80
                 """;
         System.out.println(sinopse);
